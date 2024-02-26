@@ -1,53 +1,35 @@
-# AdventureWorks Power BI Business Intelligence Project
+# Udemy Course Projects and Exercises Repository
 
-This project is the capstone of the Udemy course "Microsoft Power BI Desktop for Business Intelligence". It showcases a business intelligence solution using Power BI Desktop to track key performance indicators (KPIs) for Adventure Works Cycles, a global manufacturing company.
+## Introduction
 
-## Project Overview
+This repository contains my personal projects and exercises developed as part of the learning process on Udemy. Each project and exercise here represents a piece of knowledge gained and skills practiced from various courses taken on the platform.
 
-The project simulates a real-world business scenario where the client requires insights into sales, revenue, profit, and returns. It involves comparing regional performance, analyzing product-level trends and forecasts, and identifying high-value customers.
+## Purpose
 
-## Features
+The sole purpose of this repository is to showcase my work and document my progress as I advance through my learning journey on Udemy. It serves as a point of reference for the skills and concepts I have learned.
 
-- **KPI Tracking**: Sales, revenue, profit, and returns are visualized in an interactive dashboard.
-- **Trend Analysis**: Product-level trends over time are displayed to understand market dynamics.
-- **Forecasting**: Predictive analytics are used to forecast future sales and revenue.
-- **Customer Insights**: High-value customers are identified based on their purchasing patterns.
+## Repository Structure
 
-## Installation
-
-To review this project:
-1. Ensure you have Power BI Desktop installed on your machine. Download it from the [Official Power BI Download Page](https://powerbi.microsoft.com/en-us/downloads/).
-2. Download the .pbit template file from this repository.
-3. Open the .pbit file with Power BI Desktop.
-4. When prompted, connect to your own data sources or use sample data available within Power BI.
-
-## Data
-
-This project template does not include the actual data files due to privacy concerns and the Udemy course's policy. Instead, this is a Power BI template file that contains the structure of my report, but no data. This project is for presentation purposes only.
-
-## Project Contents
-
-The repository includes the following:
-
-- **Power BI Template (.pbit)**: This is a template file that contains the report structure, including visuals, DAX measures, and layout, but does not contain any data.
-- **Visualization PDFs**: PDF files of the report visuals are provided for reference to see the intended final look of the report without interacting with the actual Power BI file.
+Each folder in this repository corresponds to a specific Udemy course or topic. I follow Udemy's privacy policy.
 
 ## Usage
 
-With the template file, you can:
-- Connect to your data sources to populate the report with your data.
-- Explore the report structure and design.
-- Use the provided PDFs to understand the intended visualization and layout.
+The content provided here is for display purposes only. 
+
+## Disclaimer
+
+All the material in this repository is based on publicly available data or dummy datasets that are used for educational purposes. The repository is not intended for commercial use.
 
 ## Acknowledgements
 
-- This project was created to demonstrate my completion of the Udemy course and adheres to its educational content guidelines.
-- Adventure Works Cycles is a fictional company used for the purposes of this project.
+- All projects and exercises are followed by and based on the learnings from the courses on Udemy.
+- The data included in this repository is fictional and any resemblance to real data is purely coincidental.
 
-## Reference
+## Contact
 
-- Udemy Course Link: [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?couponCode=KEEPLEARNING)
+Should you have any suggestions, feel free to reach out.
 
----
+- Jiejie(JJ) Wen
+- LinkedIn: https://www.linkedin.com/in/jiejie-wen/
 
-*Please note that this project is not affiliated with the official Adventure Works company and is only for educational purposes within the context of the Udemy course.*
+Thank you for visiting my projects repository🐱!
