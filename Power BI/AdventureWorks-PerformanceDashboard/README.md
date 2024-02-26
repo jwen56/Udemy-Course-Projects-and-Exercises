@@ -39,15 +39,14 @@ With the template file, you can:
 - Explore the report structure and design.
 - Use the provided PDFs to understand the intended visualization and layout.
 
-## Acknowledgements
-
-- This project was created to demonstrate my completion of the Udemy course and adheres to its educational content guidelines.
-- Adventure Works Cycles is a fictional company used for the purposes of this project.
-
 ## Reference
 
-- Udemy Course Link: [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?couponCode=KEEPLEARNING)
+- Course Name: [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?couponCode=KEEPLEARNING)
+
+## Disclaimer
+
+- This project is purely educational and is not associated with any real-world data from Maven Movies. The repository does not include any actual data from the Adventure Works Cycles database and is intended solely to showcase Power BI skills as learned from the Udemy course.
 
 ---
 
-*Please note that this project is not affiliated with the official Adventure Works company and is only for educational purposes within the context of the Udemy course.*
+*Please note that this project is only for educational purposes within the context of the Udemy course.*
