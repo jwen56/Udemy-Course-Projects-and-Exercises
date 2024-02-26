@@ -45,7 +45,7 @@ With the template file, you can:
 
 ## Disclaimer
 
-- This project is purely educational and is not associated with any real-world data from Maven Movies. The repository does not include any actual data from the Adventure Works Cycles database and is intended solely to showcase Power BI skills as learned from the Udemy course.
+- This project is purely educational and is not associated with any real-world data from Adventure Works Cycles. The repository does not include any actual data from the Adventure Works Cycles database and is intended solely to showcase Power BI skills as learned from the Udemy course.
 
 ---
 
